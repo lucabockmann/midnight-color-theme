@@ -1,0 +1,21 @@
+{
+    "name": "midnight-color",
+    "displayName": "midnight-color",
+    "description": "Dark Background with colorful Syntax",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Midnight Color",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Midnight Color-color-theme.json"
+            }
+        ]
+    }
+}
