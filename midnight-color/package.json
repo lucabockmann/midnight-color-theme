@@ -2,7 +2,8 @@
     "name": "midnight-color",
     "displayName": "midnight-color",
     "description": "Dark Background with colorful Syntax",
-    "version": "0.0.1",
+    "publisher": "lucabockmann",
+    "version": "1.4.1",
     "engines": {
         "vscode": "^1.31.0"
     },

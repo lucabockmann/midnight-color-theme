@@ -26,8 +26,11 @@
 		"editor.findMatchBackground": "#18222Dff",
 		"editor.lineHighlightBorder": "#000",
 		"editor.lineHighlightBackground": "#000",
-		"editorWarning.border": "#19ffb6",
-		"editorError.border": "#FB467B",
+		"editorWarning.border": "#e2df00",
+		"editorWarning.foreground": "#e2df0000",
+		"editorError.border": "#da2626cc",
+		"editorError.foreground": "#ff000000",
+		"editorError.background": "#ff000026",
 		"editorSuggestWidget.background": "#0b1015",
 		"editorSuggestWidget.selectedBackground": "#18222Dff",
 		"editorHoverWidget.background": "#0b1015",
@@ -38,7 +41,7 @@
 		"editorGutter.deletedBackground": "#FB467B",
 		"editorCursor.foreground": "#fff",
 		"editorWhitespace.foreground": "#18222Dff",
-		"editorIndentGuide.background": "#18222Dff",
+		"editorIndentGuide.background1": "#18222Dff",
 		"editorRuler.foreground": "#18222Dff",
 		"tab.activeBackground": "#0b1015",
 		"tab.inactiveBackground": "#0b1015",
@@ -47,7 +50,7 @@
 		"tab.activeBorder": "#19ffb6",
 		"tab.unfocusedActiveBorder": "#97a7c8ff",
 		"tab.inactiveForeground": "#97a7c8ff",
-		"editorGroup.background": "#0b1015",
+		"editorGroup.dropBackground": "#0b1015",
 		"editorGroupHeader.tabsBackground": "#0b1015",
 		"editorGroupHeader.noTabsBackground": "#0b1015",
 		"editorGroup.border": "#0b1015",
@@ -71,7 +74,6 @@
 		"debugToolBar.background": "#0b1015",
 		"dropdown.background": "#0b1015",
 		"dropdown.border": "#97a7c8ff",
-		"statusBar.foreground": "#fff"
 	  },
 	  "tokenColors": [
 		{
@@ -107,7 +109,7 @@
 		  "scope": "string",
 		  "settings": {
 			"fontStyle": "italic",
-			"foreground": "#C3E88D"
+			"foreground": "#aee062"
 		  }
 		},
 		{
