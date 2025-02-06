@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.4.3]
+### Added
+- Add Maintainer
+- Code Examples in README
 
 ## [1.4.2]
 ### Added

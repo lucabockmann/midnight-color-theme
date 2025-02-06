@@ -3,6 +3,9 @@
     "displayName": "Midnight Color",
     "description": "Dark Background with colorful Syntax",
     "publisher": "lucabockmann",
+    "maintainers": [
+		"Luca Bockmann <hey@lucabockmann.de>"
+	],
     "license": "MIT",
     "icon": "icon/icon.png",
     "galleryBanner": {
@@ -10,7 +13,7 @@
         "theme": "dark"
     },
     "homepage": "https://lucabockmann.de/studio",
-    "version": "1.4.2",
+    "version": "1.4.3",
     "engines": {
         "vscode": "^1.31.0"
     },
@@ -18,6 +21,14 @@
         "Themes",
         "Other"
     ],
+    "keywords": [
+		"lucabockmann",
+        "dark theme",
+        "theme",
+		"dark",
+		"modern",
+		"contrasting"
+	],
     "bugs": {
         "url": "https://github.com/lucabockmann/midnight-color-theme/issues"
     },
