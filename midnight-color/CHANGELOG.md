@@ -1,7 +1,31 @@
 # Change Log
-All notable changes to the "midnight-color" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [1.4.2]
+### Added
+- add README Text
+- add CHANGELOG
+- add links
+    - Repository
+    - Bugs
+    - Homepage
+
+### Fixed
+- Theme Icon
+
+---
+
+## [1.4.1]
+### Fixed
+- Fixing the Border && Background colors
+
+---
+
+## [1.1 - 1.4]
+### Fixed
+- Small color adjustments
+
+---
+
+## [1.0]
 - Initial release
